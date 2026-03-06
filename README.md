@@ -1,7 +1,6 @@
 
   # BeyondBless Landscape
-
-  This is a code bundle for BeyondBless Landscape. The original project is available at https://www.figma.com/design/tMaXpZYNAjm7FPiivWGPSd/BeyondBless-Landscape.
+BeyondBless Landing page
 
   ## Running the code
 
