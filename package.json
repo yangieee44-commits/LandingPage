@@ -4,12 +4,14 @@
   "version": "0.0.1",
   "type": "module",
   "homepage": "https://<your-username>.github.io/beyondbless-landing",
-  "scripts": {
+   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npx vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist -b gh-pages",
-    "start": "vite"
+    "start": "vite",
+    "vercel-build": "npx vite build"
+  
   },
   "dependencies": {
     "react": "^18.3.1",
